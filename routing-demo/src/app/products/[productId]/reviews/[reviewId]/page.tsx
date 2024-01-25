@@ -7,7 +7,7 @@ function getRandomInt(count: number) {
 }
 
 export default function ReviewDetail({
-     params
+    params
 }: {
     params: {
         reviewId: string;
