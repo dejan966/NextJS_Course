@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function DefaultLogin() {
     return (
         <Card>
-            <div>Login</div>
+            <div>Archived Login</div>
             <Link href="/complex-dashboard">Default</Link>
         </Card>
     )
